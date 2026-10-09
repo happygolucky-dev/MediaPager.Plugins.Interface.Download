@@ -1,0 +1,11 @@
+{
+  "id": "mediapager.interface.download",
+  "name": "Download Interface",
+  "description": "Community inter-plugin contract for delegating media transfers.",
+  "author": "HappyGoLucky Dev",
+  "types": "interface",
+  "sdk": "MediaPager.App.PluginContracts",
+  "sdkVersion": "0.1.0",
+  "requires": [],
+  "discoverable": false
+}
